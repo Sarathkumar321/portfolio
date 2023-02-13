@@ -1,0 +1,32 @@
+.topnav{
+    background-color: black;
+    height: 22px;
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.active{
+    color:blueviolet;
+    background-color:white;
+    margin:5px;
+    font-weight: 200;
+    font-size: 20px;
+}
+.name{
+    color:rgb(16, 24, 175);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.des{
+    color:rgb(123, 8, 217);
+
+}
+.img{
+    height:300px ;
+    width: 300px;
+    
+}
+.imgd{
+    margin:100px;
+    padding:20px;
+    
+    
+}
